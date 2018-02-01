@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml"/>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="RVM: ruby-2.3.0 [global]" project-jdk-type="RUBY_SDK"/>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="/usr/bin"/>
+  </component>
+</project>
